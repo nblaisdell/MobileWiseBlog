@@ -23,7 +23,7 @@
     <small>posted on july 3rd, 2013 by Matt, edited August 4th by Matt</small>
   </div>
   <div>
-    next and previous links
+    <a href="#">next</a> | <a href="#">previous</a>
   </div>
 </content>
 
