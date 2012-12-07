@@ -11,6 +11,7 @@
   <div class="comments">
     <small><b>Name</b> said</small>
     <p>I think that's a great point. Go you!</p>
+    <p>and paragraph</p>
     <small>on July 4th, 2013</small>
   </div>
 </content>
