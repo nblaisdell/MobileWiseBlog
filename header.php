@@ -9,6 +9,8 @@
   </h1>
 </header>
 
+<div class="wrapper cf">
+
 <nav>
   <a href="./vs.php">Android vs iOS &nbsp; - &nbsp; Pros and Cons</a>
   <a href="./sec.php">Security Issues</a>
