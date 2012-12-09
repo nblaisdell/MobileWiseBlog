@@ -29,6 +29,4 @@
 
 <?php include("sidebar.php"); ?>
 
-</div><!-- /end .wrapper -->
-
 <?php include("footer.php"); ?>
